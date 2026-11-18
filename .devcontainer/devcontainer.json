@@ -32,7 +32,7 @@
         ]
       }
     }
-  },
+  }, 
   "forwardPorts": [8080],
   "postCreateCommand": "java -version"
 }
